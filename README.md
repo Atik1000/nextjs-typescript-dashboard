@@ -55,7 +55,7 @@ pnpm start
 ## Project Structure
 
 ```
-v0-hello/
+nextjs-typescript-dashboard/
 ├── app/                        # Next.js App Router
 │   ├── layout.tsx              # Root layout with theme provider
 │   ├── page.tsx                # Landing/home page
